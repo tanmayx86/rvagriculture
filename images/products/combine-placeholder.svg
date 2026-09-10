@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Combine harvester placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#edf7ee"/>
+      <stop offset="100%" stop-color="#dfece4"/>
+    </linearGradient>
+    <linearGradient id="machine" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1f5d46"/>
+      <stop offset="100%" stop-color="#3e8a67"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <ellipse cx="420" cy="398" rx="220" ry="38" fill="#d5e3d9"/>
+  <g transform="translate(120 110)">
+    <rect x="120" y="140" width="325" height="86" rx="18" fill="url(#machine)"/>
+    <rect x="390" y="160" width="120" height="45" rx="10" fill="#254f3d"/>
+    <rect x="40" y="100" width="110" height="12" rx="6" fill="#2e6a54"/>
+    <path d="M40 112l-60 38h110z" fill="#335e4d"/>
+    <rect x="230" y="60" width="112" height="82" rx="12" fill="#204d3d"/>
+    <rect x="260" y="28" width="55" height="40" rx="9" fill="#2c6e55"/>
+    <rect x="150" y="210" width="83" height="44" rx="16" fill="#183c2d"/>
+    <rect x="290" y="210" width="83" height="44" rx="16" fill="#183c2d"/>
+    <rect x="430" y="185" width="54" height="44" rx="12" fill="#183c2d"/>
+    <circle cx="170" cy="265" r="28" fill="#1c2b24"/>
+    <circle cx="330" cy="265" r="28" fill="#1c2b24"/>
+    <circle cx="478" cy="265" r="20" fill="#1c2b24"/>
+    <rect x="468" y="150" width="10" height="50" rx="5" fill="#d9b36a"/>
+    <rect x="250" y="10" width="12" height="52" rx="6" fill="#d9b36a"/>
+    <rect x="165" y="88" width="25" height="58" rx="10" fill="#d9b36a"/>
+  </g>
+  <text x="400" y="455" text-anchor="middle" font-size="36" font-family="Verdana, sans-serif" fill="#1f5d46" font-weight="700">Replace with actual product photo</text>
+</svg>
